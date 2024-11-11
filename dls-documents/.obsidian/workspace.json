@@ -51,12 +51,14 @@
             "id": "03628778b8226489",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Profitability Project/zProjectImages/customer_profitability_refresh_extraction.png"
+                "file": "z_process_diagrams/Example.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "customer_profitability_refresh_extraction"
+              "icon": "lucide-file",
+              "title": "Example"
             }
           }
         ],
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Profitability Project/zProjectImages/customer_profitability_refresh_extraction.png",
+                "file": "z_process_diagrams/Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for customer_profitability_refresh_extraction"
+              "title": "Backlinks for Example"
             }
           },
           {
@@ -200,8 +202,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03628778b8226489",
+  "active": "23864e8322141b4e",
   "lastOpenFiles": [
+    "Profitability Project/zProjectImages/customer_profitability_refresh_extraction.png",
     "Profitability Project/zProjectImages/Main Profitability Sample Code.png",
     "Business Intelligence Database/_Business Intelligence Database Summary.md",
     "z_process_diagrams/Example.md",
@@ -213,7 +216,6 @@
     "2024-11-11.md",
     "Order Processing Team Optimizations/Job Tracker.md",
     "Profitability Project/Summary_Profitability Project.md",
-    "Profitability Project/zProjectImages/customer_profitability_refresh_extraction.png",
     "Order Processing Team Optimizations",
     "Profitability Project/ETL & Scripts/ETL Steps/4 Build Customer Product Line View.md",
     "Profitability Project/ETL & Scripts/ETL Steps/3 Build Dummy Data.md",
