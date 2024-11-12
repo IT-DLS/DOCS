@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_process_diagrams/Example.md",
+                "file": "Order Processing Team Optimizations/Order Process PO,SO, to WO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example"
+              "title": "Order Process PO,SO, to WO"
             }
           }
         ],
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_process_diagrams/Example.md",
+                "file": "Order Processing Team Optimizations/Order Process PO,SO, to WO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Example"
+              "title": "Backlinks for Order Process PO,SO, to WO"
             }
           },
           {
@@ -202,12 +202,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23864e8322141b4e",
+  "active": "03628778b8226489",
   "lastOpenFiles": [
+    "z_process_diagrams/Example.md",
+    "~$Gl_Form.xlsm",
     "Profitability Project/zProjectImages/customer_profitability_refresh_extraction.png",
     "Profitability Project/zProjectImages/Main Profitability Sample Code.png",
     "Business Intelligence Database/_Business Intelligence Database Summary.md",
-    "z_process_diagrams/Example.md",
     "Order Processing Team Optimizations/Order Process PO,SO, to WO.md",
     "Untitled",
     "draw.io/Untitled.md",
@@ -229,7 +230,6 @@
     "ED336020",
     "B0F26020",
     "5E026020",
-    "Gl_Form.xlsm",
     "Images/customer_profitability_refresh_extraction.jpg",
     "Pasted image 20240522113730.png",
     "Untitled 1.md",
